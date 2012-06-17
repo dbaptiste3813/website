@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.super
+{
+font-family: 'Graduate', 'Arial', sans-serif;
+font-size:3em;
+color:@green;
+
+}
